@@ -1,9 +1,6 @@
 ### 😄 My Github Stats
 ![jsh00325's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh00325&show_icons=true&theme=merko)
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh00325&layout=compact&theme=merko)
-
 ### 🏅 Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh00325)](https://solved.ac/jsh00325/)
 ![baekjoon streak](http://mazandi.herokuapp.com/api?handle=jsh00325&theme=dark)
