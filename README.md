@@ -1,4 +1,4 @@
-### My Github Stats
+### 😄 My Github Stats
 ![jsh00325's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh00325&show_icons=true&theme=merko)
 
 ### 📊 Most Used Languages
