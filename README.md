@@ -5,6 +5,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsh00325)](https://solved.ac/jsh00325/)
 ![baekjoon streak](http://mazandi.herokuapp.com/api?handle=jsh00325&theme=dark)
 
+### 🎯 Codeforce Rating
+[![CodeForces Profile](https://cf.leed.at?id=jsh00325)](https://codeforces.com/profile/jsh00325)
+
 <!--
 **jsh00325/jsh00325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
